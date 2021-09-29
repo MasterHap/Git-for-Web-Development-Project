@@ -23,6 +23,8 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
 4. don't forget to add, commit and push your changes.
 
 
+
+
 ## Task 3: Stretch
 Stretch Review questions: 
     1. What is the difference between an inline element and a block element?
